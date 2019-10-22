@@ -1,3 +1,3 @@
 # Refactoring Dojo
 
-Start with the introductory exercise [here](examples/theatrical-players/README.md).
+Start with the introductory exercise [here](src/theatrical-players/README.md).
