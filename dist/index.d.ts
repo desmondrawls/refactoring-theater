@@ -1,3 +1,2 @@
-declare const name: string;
-declare function statement(invoice: any, plays: any): string;
+export {};
 //# sourceMappingURL=index.d.ts.map

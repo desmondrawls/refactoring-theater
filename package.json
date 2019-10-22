@@ -7,13 +7,16 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "bootrun": "ts-node src/theatrical-players/index.ts"
   },
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^24.0.13",
+    "@types/node": "^10.12.18",
     "jest": "^23.6.0",
     "ts-jest": "^23.10.5",
+    "ts-node": "^8.4.1",
     "typescript": "^3.5.1"
   }
 }
