@@ -1,7 +1,6 @@
 const fs = require('fs')
 const util = require('util')
 import { statement } from "./statement";
-import { access } from "fs";
 
 const main = async () => {
   try {
