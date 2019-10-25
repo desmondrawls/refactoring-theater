@@ -3,39 +3,18 @@
   "performances": [
       {
           "playName": "Hamlet",
-          "basePrice": 40000,
-          "volumeCreditsRatio": 0,
-          "audience": {
-            "total": 55,
-            "premium": 0,
-            "overflow": 25,
-            "overflowPremium": 1000,
-            "overflowPenalty": 0
-          }
+          "type": "tragedy",
+          "audience": 55
       },
       {
           "playName": "As You Like It",
-          "basePrice": 30000,
-          "volumeCreditsRatio": 0.2,
-          "audience": {
-            "total": 35,
-            "premium": 300,
-            "overflow": 15,
-            "overflowPremium": 500,
-            "overflowPenalty": 10000
-          }
+          "type": "comedy",
+          "audience": 35
       },
       {
           "playName": "Othello",
-          "basePrice": 40000,
-          "volumeCreditsRatio": 0,
-          "audience": {
-            "total": 40,
-            "premium": 0,
-            "overflow": 10,
-            "overflowPremium": 1000,
-            "overflowPenalty": 0
-          }
+          "type": "tragedy",
+          "audience": 40
       }
   ]
 }
